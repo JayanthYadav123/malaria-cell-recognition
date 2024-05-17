@@ -18,6 +18,8 @@ These images have been meticulously collected and annotated by medical experts, 
 
 ## Neural Network Model
 
+
+
 <img width="515" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/e790afc2-1a4b-4277-b900-f97c1ed76895">
 
 ## DESIGN STEPS
@@ -53,6 +55,8 @@ Register Number: 212221230030.
 
 ```
 ```
+
+
 import os
 import pandas as pd
 import numpy as np
@@ -193,6 +197,9 @@ else:
 
 ```
 
+
+
+
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
@@ -200,15 +207,18 @@ else:
 
 <img width="428" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/abc32b0b-ffc3-4b58-9d66-3eaaecdad7bb">
 
+
 ### Classification Report
 
 
 <img width="422" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/9a161bfb-ea11-4ba2-a20e-562b8baf9749">
 
+
 ### Confusion Matrix
 
 
 <img width="215" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/63bf0696-a67a-466f-bb7f-7f324bae8bfe">
+
 
 
 ### New Sample Data Prediction
