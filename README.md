@@ -197,7 +197,7 @@ else:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="441" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/c4fcc6a4-5a72-4ab1-88c3-6fbd4e64650f">
+<img width="428" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/abc32b0b-ffc3-4b58-9d66-3eaaecdad7bb">
 
 ### Classification Report
 
