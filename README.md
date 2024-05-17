@@ -201,15 +201,15 @@ else:
 
 ### Classification Report
 
-<img width="355" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/bcf5c6ee-0ab2-44e4-a2c7-5526b8680f52">
+<img width="422" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/9a161bfb-ea11-4ba2-a20e-562b8baf9749">
 
 ### Confusion Matrix
 
-<img width="336" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/f1e24610-9800-4a31-ac38-3a4ca87445b8">
+<img width="215" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/63bf0696-a67a-466f-bb7f-7f324bae8bfe">
 
 ### New Sample Data Prediction
 
-<img width="487" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/c755888e-4a93-4e8b-8c72-ff384b49cd97">
+<img width="513" alt="image" src="https://github.com/JayanthYadav123/malaria-cell-recognition/assets/94836154/99ec6c35-421d-4f5e-9d2f-7e0c7ce9bf89">
 
 ## RESULT
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
